@@ -7,4 +7,6 @@ Segue abaixo o passo a passo de como  foi criado e transferido para  o repositó
 1- Criação do arquivo no GitHub através do seu editor de texto.
 Assim que terminar a edição, deve-se commitá-lo em "commit changes", no botão do final da página.
 
+2- 
+
 
