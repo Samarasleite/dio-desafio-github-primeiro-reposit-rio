@@ -9,8 +9,12 @@ Segue abaixo o passo a passo de como  foi criado e transferido para  o repositó
 
 Deve-se colocar a extensão (ex: .md) no nome do novo arquivo para que consiga ver o preview.
 
-Assim que terminar a edição, deve-se commitá-lo em "commit changes", no botão do final da página. 
+Assim que terminar a edição, deve-se commitá-lo em "commit changes", no botão do final da página (para atualizá-lo). 
 
-2- 
+2- Como já existe a pasta Introdução ao Git/GitHub no Repositório Local e esse arquivo "Documento de Treinamento" trata-se de uma atualização, dar o seguinte comando para enviá-lo:
+
+git pull 
+
+
 
 
